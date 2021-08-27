@@ -309,6 +309,7 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Views\JigFixture\Index.cshtml" />
     <Content Include="Views\Web.config" />
+    <Content Include="Views\JigFixture\测试.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
